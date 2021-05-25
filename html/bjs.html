@@ -11,7 +11,8 @@
   <link rel="icon" type="image/x-icon" href="/images/logo.ico" />
   <base target="_top">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <link rel="stylesheet" href="/css/bjs.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="bjs.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500&display=swap" rel="stylesheet">
@@ -38,35 +39,36 @@
           <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="nav navbar-nav ms-auto">
                   <li class="nav-item px-3">
-                      <a class="nav-link active" href="#">Home</a>
+                      <a class="nav-link active" href="/">Home</a>
                   </li>
                   <li class="nav-item px-3">
-                      <a class="nav-link" href="#">API</a>
+                      <a class="nav-link" href="https://docs.api.sdcreations.tk/">API</a>
                   </li>
                   <li class="nav-item px-3">
-                      <a class="nav-link" href="#">BJS</a>
+                      <a class="nav-link" href="/bjs">BJS</a>
                   </li>
                   <li class="nav-item px-3">
-                      <a class="nav-link" href="#">Tutorials</a>
+                      <a class="nav-link" href="/tutorial">Tutorials</a>
                   </li>
                   <li class="nav-item px-3">
-                      <a class="nav-link" href="#">About</a>
+                      <a class="nav-link" href="/about">About</a>
                   </li>
               </ul>
           </div>
       </div>
   </nav>
+  
   </section>
   <section id="content">
-    <div class="content">
+    <div class="content ">
       <H2 class="" style="font-size: 32px;"> How to Use Captcha Api in our Bot</H2>
-      <div class="mt-2 fs-5">
-        <span class="fw-bolder">Command :-</span>  /captcha
+      <div class="line-numbers jumbotron mt-3" style="width: auto;">
+      <div class=" fs-6">
+        <span class="fw-bolder ">Command :-</span>  /captcha
       </div>
 
-<div class="line-numbers" style="width: auto;">
 <pre data-prismjs-copy="Copy">
-<code id="demo" class="language-js" >function makecaptcha(length) {
+<code id="demo" class="language-js">function makecaptcha(length) {
   var result           = [];
   var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   var charactersLength = characters.length;
@@ -91,11 +93,13 @@ Bot.run({
 </code></pre>
 </div>
 
-<div class="mt-5">
+<div class="line-numbers jumbotron mt-3" style="width: auto;">
+<div class="">
   <span class="fw-bolder">Command :-</span>  /check_captcha
 </div>
-
-<div class="line-numbers" style="width: auto;">
+<div class="">
+  <span class="fw-bolder">Wait for reply :-</span> true
+</div>
 <pre data-prismjs-copy="Copy">
 <code id="demo" class="language-js" >
 if(!options){return}
