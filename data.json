@@ -67,7 +67,7 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "01)0,2,5,9,14,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 83,
     "answers": [
      {
@@ -102,27 +102,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "02)1,4,9,16,25,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 82,
     "answers": [
      {
       "text": "10",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "20",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "30",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "36",
-      "voters": 0,
+      "voters": 58,
       "chosen": false
      }
     ]
@@ -137,27 +137,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "03)22,21,23,22,24,23,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 77,
     "answers": [
      {
       "text": "24",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "25",
-      "voters": 0,
+      "voters": 62,
       "chosen": false
      },
      {
       "text": "22",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "26",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -172,27 +172,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "04)36,34,30,28,24,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 71,
     "answers": [
      {
       "text": "26",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "24",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "28",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "22",
-      "voters": 0,
+      "voters": 48,
       "chosen": false
      }
     ]
@@ -207,27 +207,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "05)21,9,21,11,21,13,21,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 67,
     "answers": [
      {
       "text": "15",
-      "voters": 0,
+      "voters": 49,
       "chosen": false
      },
      {
       "text": "17",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "21",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "14",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -242,22 +242,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "06)58,52,46,40,34,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 67,
     "answers": [
      {
       "text": "30",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "28",
-      "voters": 0,
+      "voters": 53,
       "chosen": false
      },
      {
       "text": "26",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
@@ -277,27 +277,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "07)14,28,20,40,32,64,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 65,
     "answers": [
      {
       "text": "52",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "56",
-      "voters": 0,
+      "voters": 38,
       "chosen": false
      },
      {
       "text": "58",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "50",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      }
     ]
@@ -312,27 +312,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "08)31,29,24,22,17,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 63,
     "answers": [
      {
       "text": "15",
-      "voters": 0,
+      "voters": 45,
       "chosen": false
      },
      {
       "text": "16",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "17",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "18",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -347,27 +347,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "09)1.5, 2.3, 3.1, 3.9, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 60,
     "answers": [
      {
       "text": "4.2",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "4.6",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "4.7",
-      "voters": 0,
+      "voters": 42,
       "chosen": false
      },
      {
       "text": "5.1",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -382,27 +382,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "10)201,202,204,207,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 68,
     "answers": [
      {
       "text": "210",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "211",
-      "voters": 0,
+      "voters": 51,
       "chosen": false
      },
      {
       "text": "212",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "213",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -417,27 +417,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "11)544, 509, 474, 439, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 40,
     "answers": [
      {
       "text": "420",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "415",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "408",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "404",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      }
     ]
@@ -452,27 +452,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "12)5.2, 4.8, 4.4, 4 , ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 41,
     "answers": [
      {
       "text": "3.8",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "3.7",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "3.6",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      },
      {
       "text": "3.2",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -487,22 +487,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "13)2,6,18,54,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 43,
     "answers": [
      {
       "text": "126",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "162",
-      "voters": 0,
+      "voters": 36,
       "chosen": false
      },
      {
       "text": "152",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
@@ -522,27 +522,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "14)80, 10, 70, 15, 60,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 42,
     "answers": [
      {
       "text": "22",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "16",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "20",
-      "voters": 0,
+      "voters": 34,
       "chosen": false
      },
      {
       "text": "18",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -557,27 +557,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "15)8,6,9,23,87,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 37,
     "answers": [
      {
       "text": "400",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "320",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "429",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "300",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -592,27 +592,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "16)28, 25, 5, 21, 18, 5, 14, ?, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 39,
     "answers": [
      {
       "text": "12,5",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "11,5",
-      "voters": 0,
+      "voters": 28,
       "chosen": false
      },
      {
       "text": "10,5",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -627,27 +627,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "17)8, 11, 21, 15, 18, 21, 22, ?, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 37,
     "answers": [
      {
       "text": "25,21",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "24,22",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "23,21",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "25,21",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -662,27 +662,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "18)2, 8, 14, 20, 26, 32, 38, ?,?",
-    "closed": false,
+    "closed": true,
     "total_voters": 35,
     "answers": [
      {
       "text": "40,52",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "44,50",
-      "voters": 0,
+      "voters": 26,
       "chosen": false
      },
      {
       "text": "48,54",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -697,27 +697,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "19)9, 12, 11, 14, 13, 16, 15, ?, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 35,
     "answers": [
      {
       "text": "18,17",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "19,16",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "20,18",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -1642,27 +1642,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "46)15, 225, 16, 256, 17, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 59,
     "answers": [
      {
       "text": "144",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "169",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "281",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "289",
-      "voters": 0,
+      "voters": 27,
       "chosen": false
      }
     ]
@@ -1712,27 +1712,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "48)0, 7, 26, 63, ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 53,
     "answers": [
      {
       "text": "113",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "115",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "124",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "120",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      }
     ]
@@ -1782,27 +1782,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "50)7, 10, 9, 11, ?, 12",
-    "closed": false,
+    "closed": true,
     "total_voters": 66,
     "answers": [
      {
       "text": "7 ",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "11",
-      "voters": 0,
+      "voters": 30,
       "chosen": false
      },
      {
       "text": "10",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "13",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
@@ -1877,27 +1877,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "51)Moon: Satellite :: Earth :?",
-    "closed": false,
+    "closed": true,
     "total_voters": 84,
     "answers": [
      {
       "text": "Satellite ",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "Planet ",
-      "voters": 0,
+      "voters": 69,
       "chosen": false
      },
      {
       "text": "Astroid ",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -1982,27 +1982,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "54)Clock : Time :: thermometer :? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 86,
     "answers": [
      {
       "text": "Heat ",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "Radiatoin ",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "Energy ",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "Temperature",
-      "voters": 0,
+      "voters": 60,
       "chosen": false
      }
     ]
@@ -3705,27 +3705,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "102)Cringe : Dread : : ? : ? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "Fidget : nervousness ",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "Obstruct : disappointed ",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Entertain : amusement ",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "None of these ",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -3749,27 +3749,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "103)A  C  E  S  T  H ",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "6,1,4,5,3,2",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "2,6,1,4,5,3",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "4,3,5,6,1,2",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "6,3,2,1,4,5",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -3785,22 +3785,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "104)D A I M E N ",
-    "closed": false,
+    "closed": true,
     "total_voters": 28,
     "answers": [
      {
       "text": "1,5,4,2,3,6",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "4, 5,1,2,3,6",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "4,2,3,1,5,6",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
@@ -3821,27 +3821,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "105)C T R A P E ",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "1,4,2,6,5,3",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "3,5,2,4,1,6",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "6,4,3,1,5,2",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "1,4,3,6,5,2",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -3857,27 +3857,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "106)R E S T L U ",
-    "closed": false,
+    "closed": true,
     "total_voters": 31,
     "answers": [
      {
       "text": "3,4,6,1,2,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "4,5,3,2,6,1",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "5,6,3,4,1,2",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "6,5,2,1,4,3",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -3893,22 +3893,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "107)E L G N I M",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "6,5,4,3,2,1",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "3,5,2,6,4,1",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "2,4,6,5,3,1",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
@@ -3929,22 +3929,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "108)E T C K O P",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "3,1,4,5,6,2",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "6,5,3,4,1,2",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "2,1,6,5,3,4",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
@@ -3965,27 +3965,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "109)N A E H L D",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "2,6,4,3,5,1",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "4,2,1,6,5,3",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "4,3,6,5,2,1",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "5,6,2,3,4,1",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -4001,27 +4001,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "110)T P S L O I ",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "4,6,2,5,3,1",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "2,5,4,3,6,1",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "2,6,3,1,5,4",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "3,6,4,2,5,1",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -4037,27 +4037,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "111)T R I F U ",
-    "closed": false,
+    "closed": true,
     "total_voters": 23,
     "answers": [
      {
       "text": "3,1,2,4,5",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "4,2,5,3,1",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "4,3,2,1,5",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "5,3,2,1,4",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -4073,27 +4073,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "112)GTAENM ",
-    "closed": false,
+    "closed": true,
     "total_voters": 17,
     "answers": [
      {
       "text": "1,3,2,5,4,6",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "1,3,2,6,4,5",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "6,3,5,1,4,2",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "6,3,1,5,4,2",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -4109,27 +4109,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "113)R T E O D P",
-    "closed": false,
+    "closed": true,
     "total_voters": 17,
     "answers": [
      {
       "text": "1,3,4,5,6,2",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "2,3,1,6,4,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "5,3,6,4,1,2",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "6,3,5,1,4,2",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -4145,22 +4145,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "114)N R O C T A",
-    "closed": false,
+    "closed": true,
     "total_voters": 15,
     "answers": [
      {
       "text": "4,6,2,5,3,1",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "4,2,3,1,6,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "6,4,5,2,1,3",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
@@ -4181,22 +4181,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "115)M F I A N E",
-    "closed": false,
+    "closed": true,
     "total_voters": 20,
     "answers": [
      {
       "text": "1,6,2,3,4,5",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "2,4,1 3,5,6",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "5,6,2,3,1,4",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
@@ -4217,22 +4217,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "116)A C P E T S",
-    "closed": false,
+    "closed": true,
     "total_voters": 18,
     "answers": [
      {
       "text": "1,6,3,4,2,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "2,3,4,1,5,6",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "5,2,3,6,4,1",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
@@ -4253,22 +4253,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "117)V A R S T E",
-    "closed": false,
+    "closed": true,
     "total_voters": 21,
     "answers": [
      {
       "text": "2,3,1,6,4,5",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "3,2,4,5,6,1",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "4,5,2,3,1,6",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
@@ -4289,27 +4289,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "118)JCOPTER ",
-    "closed": false,
+    "closed": true,
     "total_voters": 18,
     "answers": [
      {
       "text": "1,3,4,6,7,2,5",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "4,6,5,7,3,1,2",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "4,7,3,1,6,2,5",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "7,6,4,1,3,2,5",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -4325,27 +4325,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "119)EHNTOR",
-    "closed": false,
+    "closed": true,
     "total_voters": 17,
     "answers": [
      {
       "text": "2,5,3,4,1,6",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "4,2,6,5,3,1",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "2,5,6,3,4,1",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "4,2,5,6,3,1",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -4361,22 +4361,22 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "120)LAEMVR ",
-    "closed": false,
+    "closed": true,
     "total_voters": 19,
     "answers": [
      {
       "text": "1,2,6,4,3,5",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "4,2,6,5,3,1",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "5,3,6,4,2,1",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
@@ -4397,27 +4397,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "121)R A C E T ",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "1,2,3,4,5",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "3,2,1,4,5",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "5,2,3,4,1",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "5,1,2,3,4",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
@@ -4433,27 +4433,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "122)T E L S C A",
-    "closed": false,
+    "closed": true,
     "total_voters": 16,
     "answers": [
      {
       "text": "1,2,3,4,5,6",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "4,6,5,1,2,3",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "5,6,4,1,3,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "6,5,3,2,4,1",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -4469,27 +4469,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "123)T I R B H G",
-    "closed": false,
+    "closed": true,
     "total_voters": 15,
     "answers": [
      {
       "text": "1,3,2,4,5,6",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "4,3,2,6,5,1",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "4,5,3,6,2,1",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "6,5,2,4,1,3",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -4505,27 +4505,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "124)T N D R A E",
-    "closed": false,
+    "closed": true,
     "total_voters": 15,
     "answers": [
      {
       "text": "1,6,2,5,3,4",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "3,6,2,4,5,1",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "5,4,3,6,2,1",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "4,5,3,6,2,1",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -4541,27 +4541,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "125)E L M B A G ",
-    "closed": false,
+    "closed": true,
     "total_voters": 17,
     "answers": [
      {
       "text": "6,5,4,3,2,1",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "3,1,6,4,5,2",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "5,6,3,4,2,1",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "2,3,4,5,6,1",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -4577,27 +4577,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "126)K A T C E L ",
-    "closed": false,
+    "closed": true,
     "total_voters": 17,
     "answers": [
      {
       "text": "4,2,3,1,5,6",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "1,2,3,4,5,6",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "6,5,4,2,3,1",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "3,2,4,1,6,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      }
     ]
@@ -4613,27 +4613,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "127)T R N U A E ",
-    "closed": false,
+    "closed": true,
     "total_voters": 20,
     "answers": [
      {
       "text": "1,2,4,6,3,5",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "1,4,2,6,3,5",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "5,2,3,1,6,4",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "3,5,1,4,2,6",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -4649,27 +4649,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "128)A M D E R N ",
-    "closed": false,
+    "closed": true,
     "total_voters": 19,
     "answers": [
      {
       "text": "2,1,5,3,4,6",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "6,4,2,1,5,3",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "3,4,5,2,1,6",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "1,6,2,4,5,3",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -4685,27 +4685,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "129)C T R A P E ",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "1,4,2,6,5,3",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "3,5,2,4,1,6",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "6,4,3,1,5,2",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "1,4,3,6,5,2",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -4721,27 +4721,27 @@
    "reply_to_message_id": 139,
    "poll": {
     "question": "130)GTAENM ",
-    "closed": false,
+    "closed": true,
     "total_voters": 24,
     "answers": [
      {
       "text": "1,3,2,5,4,6",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "1,3,2,6,4,5",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "6,3,5,1,4,2",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "6,3,1,5,4,2",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -4756,27 +4756,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "131)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 50,
     "answers": [
      {
       "text": "Sun/सूर्य ",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "Cloud /बादल",
-      "voters": 0,
+      "voters": 35,
       "chosen": false
      },
      {
       "text": "Moon / चंद्रमा",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "Earth / प्रथ्वी",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -4791,27 +4791,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "132)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 41,
     "answers": [
      {
       "text": "36,27",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "64,18",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "100,125",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "16,8",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      }
     ]
@@ -4826,27 +4826,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "133)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 49,
     "answers": [
      {
       "text": "Harmonium / हारमोनियम ",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "Tomtom /  ढोलक ",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "Musician /संगीतकार ",
-      "voters": 0,
+      "voters": 35,
       "chosen": false
      },
      {
       "text": "Guitar / गिटार",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -4861,27 +4861,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "134)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 35,
     "answers": [
      {
       "text": "BOC",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "SET",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "XAZ",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "MIN",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -4896,27 +4896,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "135)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 35,
     "answers": [
      {
       "text": "5435",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "4567",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "4267",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "1368",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      }
     ]
@@ -4931,27 +4931,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "136)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 36,
     "answers": [
      {
       "text": "MADAM",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "THACH",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "OTTO",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "TOT",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
@@ -4966,27 +4966,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "137)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 36,
     "answers": [
      {
       "text": "1,6",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "19,23",
-      "voters": 0,
+      "voters": 21,
       "chosen": false
      },
      {
       "text": "62,67",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "75,80",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -5001,27 +5001,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "138)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 38,
     "answers": [
      {
       "text": "ACE",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "HJL",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "OPR",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "YAC",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5036,27 +5036,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "139)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 40,
     "answers": [
      {
       "text": "121",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "144",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "169",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "181",
-      "voters": 0,
+      "voters": 22,
       "chosen": false
      }
     ]
@@ -5071,27 +5071,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "140)Odd man out:",
-    "closed": false,
+    "closed": true,
     "total_voters": 50,
     "answers": [
      {
       "text": "Potato / आलू",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "Ginger / अदरक",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "Pumpkin/ कद्दू ",
-      "voters": 0,
+      "voters": 27,
       "chosen": false
      },
      {
       "text": "Carrot / गाजर",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      }
     ]
@@ -5106,27 +5106,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "141)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 47,
     "answers": [
      {
       "text": "1520",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "1664",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "1680",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "1705",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      }
     ]
@@ -5141,27 +5141,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "142)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 52,
     "answers": [
      {
       "text": "64",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      },
      {
       "text": "27",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      },
      {
       "text": "8",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "16",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      }
     ]
@@ -5176,27 +5176,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "143)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 48,
     "answers": [
      {
       "text": "Nanak ",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "Christ ",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Buddha",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "Gandhi",
-      "voters": 0,
+      "voters": 32,
       "chosen": false
      }
     ]
@@ -5211,27 +5211,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "144)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 56,
     "answers": [
      {
       "text": "Burrow /बिल",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "Roof/ छत ",
-      "voters": 0,
+      "voters": 35,
       "chosen": false
      },
      {
       "text": "Den/ गुहा",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "Nest / घोसला",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -5246,27 +5246,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "145)Choose the odd one :",
-    "closed": false,
+    "closed": true,
     "total_voters": 48,
     "answers": [
      {
       "text": "Aravali Hills ",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "Nilgiri Hills ",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "Mole Hills ",
-      "voters": 0,
+      "voters": 36,
       "chosen": false
      },
      {
       "text": "Shivalik Hills",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -5281,27 +5281,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "146)Find the odd one :",
-    "closed": false,
+    "closed": true,
     "total_voters": 49,
     "answers": [
      {
       "text": "Ball",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "Specter ",
-      "voters": 0,
+      "voters": 29,
       "chosen": false
      },
      {
       "text": "Globe",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "Sphere",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      }
     ]
@@ -5316,27 +5316,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "147)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 56,
     "answers": [
      {
       "text": "Debit /नामखाता",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "Deduction /नतीजा",
-      "voters": 0,
+      "voters": 30,
       "chosen": false
      },
      {
       "text": "Deposite /जमा",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Withdrawal /जमा निकासी",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      }
     ]
@@ -5351,27 +5351,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "148)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 46,
     "answers": [
      {
       "text": "Cover : page",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Flower : petal",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "Chair : leg ",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "Circle : arc",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -5386,27 +5386,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "149)Find out odd one :",
-    "closed": false,
+    "closed": true,
     "total_voters": 51,
     "answers": [
      {
       "text": "Vapour /वाष्प ",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "Mist/धुंध ",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Hailstone/ओले",
-      "voters": 0,
+      "voters": 28,
       "chosen": false
      },
      {
       "text": "Fog/धुंध",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -5421,27 +5421,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "150)Odd man out :",
-    "closed": false,
+    "closed": true,
     "total_voters": 52,
     "answers": [
      {
       "text": "Owl/ उल्लू ",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Eagle/ बाज",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "Hawk/ बाज",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Parrot / तोता",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      }
     ]
@@ -5456,22 +5456,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "Are u really solving the daily question ? Do u want it daily",
-    "closed": false,
+    "closed": true,
     "total_voters": 44,
     "answers": [
      {
       "text": "Yes sir . We want daily quiz",
-      "voters": 0,
+      "voters": 38,
       "chosen": false
      },
      {
       "text": "No sir. I will solve",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "No sir. We don't want daily quiz",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -5486,27 +5486,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "151)DIFFICULT is coded as WRUURXFOG, then what will be the code for EXTREME ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "VEJHFDV",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "WFGINVF",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "VFCIUNG",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "VCGIVNV",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      }
     ]
@@ -5521,27 +5521,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "152)If in a certain Code BOOKLET is written as DSUSVQH , then how ANSWER written in that code ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "AQYFBP",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "CRYEOD",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "DERSDY",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "BPZFPC",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5556,27 +5556,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "153)If in a certain code ARMY is written as DTNY, then how CROP written in that code? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "DSPQ",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "FUQQ",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "FTPP",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "FUQR",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5591,27 +5591,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "154)If SET= UGV\nThen, BRICK =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 27,
     "answers": [
      {
       "text": "CSJDL",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "DSJEM",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "DTKEM",
-      "voters": 0,
+      "voters": 21,
       "chosen": false
      },
      {
       "text": "DTKFM",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5626,27 +5626,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "155)If COMPUTER = KWIXCBMZ\nThen, RUNJHUN=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 16,
     "answers": [
      {
       "text": "ZYCPRVC",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "ZCVRPCV",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "ZCVRQCV",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "ZCRVPCV",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -5661,27 +5661,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "156)If COBRA= GTFWE\nThen, FRAUD =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 22,
     "answers": [
      {
       "text": "JVEZH",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "ZWEJH ",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "JWDZH",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "JWEZH",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -5696,22 +5696,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "157)If GOODNESS = HNPCODTR\nThen, GREATNESS=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 23,
     "answers": [
      {
       "text": "HQFZUMFRT",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "HQFZUODTR",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "HQFZSMFRT",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
@@ -5731,27 +5731,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "158)If, HKUJ=FISH\nThen, UVCD=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 25,
     "answers": [
      {
       "text": "SXAF",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "STAB",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "STAL",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "STAK",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -5766,27 +5766,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "159)If GLARE = 67810\nAnd MONSON= 2395339\nThen, RANSOM =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 20,
     "answers": [
      {
       "text": "189532",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "189654",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "259874",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "176542",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5801,22 +5801,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "160)If in a certain language GERMANY is coded as 7,5,18,13,1,14,25\nThen, FRANCE  written in that code? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "7,19,2 15,3,5",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "8,20,1,16,3,4",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "6,18,1,14,3,5",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
@@ -5853,22 +5853,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "Did you understand the Question And Answer?",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "Sir Questions are very easy",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "Yes sir , No problem",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "No sir , We Want Daily explanation",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -5883,27 +5883,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "161)If SWEET = XAHGU\nThen, HORSE=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 25,
     "answers": [
      {
       "text": "MSUVF",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "MTVUF",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "MTVUD",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "MSUUF",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -5918,27 +5918,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "162)If,   Tractor =14 \nAnd trolley =14\nThen, Scooter =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 25,
     "answers": [
      {
       "text": "14",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "16",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "12",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "18",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -5953,22 +5953,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "163)If CYCLE = WAWNU \nThen, BIKE =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 20,
     "answers": [
      {
       "text": "XQPU",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "XQOU",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "XRPU",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
@@ -5988,27 +5988,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "164)If TIGER = REGIT \nThen, LEOPARD =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "DRAOPLE",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "DRAPLED",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "DRAPOEL",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "DRAOPEL",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6023,27 +6023,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "165)If AKBAR=CMDCT\nThen, JODHA=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 29,
     "answers": [
      {
       "text": "WBQUN",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "LQFJC",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "LMGIX",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "HMBFX",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6058,27 +6058,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "166)If, HEALTH = GSKZDG\nThen NORTH=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 23,
     "answers": [
      {
       "text": "GSQNM",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "GSTPM",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "STGKL",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "DGPMN",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6093,27 +6093,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "167)If TIGER= 20,9,7 5,18\nAnd PUMA= 16,21,13,1\nThen PANTHER = ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 27,
     "answers": [
      {
       "text": "17, 2, 13, 21, 5, 4,18",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "16,1,14,20,8,5,18",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "15, 2, 4, 12, 6, 4, 11",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "None of these ",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6128,27 +6128,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "168)If \"Ginger is a root \" is denotes as 4123 ,   \" A Tree has a root \" is denoted by 75422, and ' Tree is green ' is denoted as 385\nThen, root is denoted by? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 25,
     "answers": [
      {
       "text": "4",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "5",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "3",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "2",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6163,27 +6163,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "169)If SONU =360\nAnd, RAJ=0\nThen RAM=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 39,
     "answers": [
      {
       "text": "0",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "24",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "30",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "160",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -6198,27 +6198,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "170)If SET= UGV\nThen, BRICK =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 32,
     "answers": [
      {
       "text": "CSJDL",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "DSJEM",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "DTKEM",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "DTKFM",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6233,7 +6233,7 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "Please rate our channel",
-    "closed": false,
+    "closed": true,
     "total_voters": 39,
     "answers": [
      {
@@ -6273,22 +6273,22 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "171)If BAT=YZG\nThen, SICK=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "HRXP",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "GKST",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "GMSU",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
@@ -6308,27 +6308,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "172)If, GUIDE =49132\nBEAM=8257\nThen, IMAGE =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "17542",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "15742",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "15824",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "18542",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6343,27 +6343,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "173)\"When will you come \" is represents 'as da na ka Pa'\n\"Can you come back \" represents as sa pa ka Ho \nThen come is denoted by? ",
-    "closed": false,
+    "closed": true,
     "total_voters": 28,
     "answers": [
      {
       "text": "da",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      },
      {
       "text": "Pa ",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "Ka ",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "Na",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -6378,27 +6378,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "174)If, DAYLONG= ZBEKHOP\nThen, CORDIAL =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 26,
     "answers": [
      {
       "text": "SPDEMBJ",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "SPDFNHK",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": " SPFNMDJ",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "TQEMCK",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6413,27 +6413,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "175)If, ROBE=5136  \nBIND= 3792\nThen, RIDE=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 29,
     "answers": [
      {
       "text": "5736",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "5726",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      },
      {
       "text": "8524",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "None",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -6448,27 +6448,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "176)Many red flowers => ho na ti \nFlowers are fresh => ka pa na \nThen ,flowers =?",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "na",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "Pa",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "ho",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "ti",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6483,27 +6483,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "177)If, SCENT=UOFDT\nLASER=SFTBM\nThen, RETAIL=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 27,
     "answers": [
      {
       "text": "MJBUFS",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "MJBFUS",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "MKGNM",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "MKJUS",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -6518,27 +6518,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "178)If,  STARK=LBFMG\nMOBILE=TNRSPJ\nThen, BLAME=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 30,
     "answers": [
      {
       "text": "TSDRJ",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "TSFRJ",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "RPFTJ",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "None",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -6553,27 +6553,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "179)If, PICTURE=QHDSVQF\nThen, BROWSER=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 31,
     "answers": [
      {
       "text": "CQWTDS",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "CQPVTDS",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      },
      {
       "text": "CQPUTDS",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "None of them",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -6588,27 +6588,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "180)If, ITNIETAM= INTIMATE\nTREVNIETARBI=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 36,
     "answers": [
      {
       "text": "INVERTIBRATE",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "INVERTIRABITE",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "BRATEINVERTI",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "None",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6623,27 +6623,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "181)If, AEROBIC= BFQNAJD\nThen, ADVERTS=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 36,
     "answers": [
      {
       "text": "BEQUDUT",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "BUEDQUT",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "BEUDQUT",
-      "voters": 0,
+      "voters": 21,
       "chosen": false
      },
      {
       "text": "BEUQDUT",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -6658,27 +6658,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "182)If,  WORK= 4 12 9 16\nThen, WOMAN=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 36,
     "answers": [
      {
       "text": "4 12 14 26 13",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "4 14 12 16 13",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "23 11 6 8 13",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "None of them",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6693,27 +6693,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "183)If, RAJU= 11 12 13 14\nAnd JUNK= 13 14 10 9\nThen, RANK=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 41,
     "answers": [
      {
       "text": "9 10 1112",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "11 12 10 9 ",
-      "voters": 0,
+      "voters": 30,
       "chosen": false
      },
      {
       "text": "10 9 11 12",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "12 11 10 9",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6728,27 +6728,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "184)If, DEEPAK= GBHMDI\nAnd BABA=EXEX\nThen, NARENDER=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 34,
     "answers": [
      {
       "text": "QDUHQGHU",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "OCSFPEGT",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "PXTBPZHM",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "QXUBQAHO",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6763,27 +6763,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "185)If the sum of a, b, c, d, e is 130, all are even numbers, \nthen,\na*e=?",
-    "closed": false,
+    "closed": true,
     "total_voters": 35,
     "answers": [
      {
       "text": "600",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "620",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "660",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "640",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -6798,27 +6798,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "186)In a certain code 'MISSIONS' is written as 'MSIISNOS'. How is 'ONLINE' written in that code?",
-    "closed": false,
+    "closed": true,
     "total_voters": 47,
     "answers": [
      {
       "text": "OLNNIE",
-      "voters": 0,
+      "voters": 22,
       "chosen": false
      },
      {
       "text": "ONILEN",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "NOILEN",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "LNOENI",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -6833,27 +6833,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "187)In certain code 'TIGER' is written as 'QDFHS'. How is 'FISH' written in that code?",
-    "closed": false,
+    "closed": true,
     "total_voters": 43,
     "answers": [
      {
       "text": "GERH",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "GRHE",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "GREH",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "GHRE",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -6903,27 +6903,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "189)In a certain code 'ROAR' is written as 'URDU'. How is 'URDU' written in that code?",
-    "closed": false,
+    "closed": true,
     "total_voters": 43,
     "answers": [
      {
       "text": "V X D Q",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "XUGX",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "ROAR",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "VSOV",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -6938,27 +6938,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "190)In a certain code 'LIMCA' is written as 'HJLDZ'. Which of the following words is written as 'IFWJBP'?",
-    "closed": false,
+    "closed": true,
     "total_voters": 52,
     "answers": [
      {
       "text": "MEXICO",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "MERCURY",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      },
      {
       "text": "JAPAN",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "MIDNIGHT",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -7008,27 +7008,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "192)8, 27, 64, 100, 125, 216, 343",
-    "closed": false,
+    "closed": true,
     "total_voters": 44,
     "answers": [
      {
       "text": "27",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "100",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      },
      {
       "text": "125",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "343",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -7113,27 +7113,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "195)6, 9, 15, 21, 24, 28, 30",
-    "closed": false,
+    "closed": true,
     "total_voters": 49,
     "answers": [
      {
       "text": "28",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      },
      {
       "text": "21",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "24",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "30",
-      "voters": 0,
+      "voters": 2,
       "chosen": false
      }
     ]
@@ -7148,27 +7148,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "196)1, 4, 9, 16, 23, 25, 36",
-    "closed": false,
+    "closed": true,
     "total_voters": 52,
     "answers": [
      {
       "text": "9",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "23",
-      "voters": 0,
+      "voters": 31,
       "chosen": false
      },
      {
       "text": "25",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "36",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -7253,27 +7253,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "199)10, 14, 16, 18, 21, 24, 26",
-    "closed": false,
+    "closed": true,
     "total_voters": 42,
     "answers": [
      {
       "text": "26",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "24",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "21",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "18",
-      "voters": 0,
+      "voters": 1,
       "chosen": false
      }
     ]
@@ -9146,27 +9146,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "251)Odd Man Out",
-    "closed": false,
+    "closed": true,
     "total_voters": 77,
     "answers": [
      {
       "text": "43",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "53",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "63",
-      "voters": 0,
+      "voters": 36,
       "chosen": false
      },
      {
       "text": "73",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      }
     ]
@@ -9216,27 +9216,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "253)Odd Man Out",
-    "closed": false,
+    "closed": true,
     "total_voters": 81,
     "answers": [
      {
       "text": "51",
-      "voters": 0,
+      "voters": 52,
       "chosen": false
      },
      {
       "text": "144",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "64",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "121",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
@@ -9321,27 +9321,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "256)Odd Man Out",
-    "closed": false,
+    "closed": true,
     "total_voters": 92,
     "answers": [
      {
       "text": "6",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "12",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "18",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "7",
-      "voters": 0,
+      "voters": 62,
       "chosen": false
      }
     ]
@@ -9356,27 +9356,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "257)Odd Man Out",
-    "closed": false,
+    "closed": true,
     "total_voters": 85,
     "answers": [
      {
       "text": "45",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "99",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "109",
-      "voters": 0,
+      "voters": 46,
       "chosen": false
      },
      {
       "text": "126",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      }
     ]
@@ -9426,27 +9426,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "259)Odd Man Out",
-    "closed": false,
+    "closed": true,
     "total_voters": 89,
     "answers": [
      {
       "text": "39",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "51",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "63",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "83",
-      "voters": 0,
+      "voters": 42,
       "chosen": false
      }
     ]
@@ -11331,27 +11331,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "312)If the day before yesterday was Saturday, What day will fall on the day after tomorrow?",
-    "closed": false,
+    "closed": true,
     "total_voters": 48,
     "answers": [
      {
       "text": "Friday",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "Tuesday",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "Thursday",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "Wednesday",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      }
     ]
@@ -11401,27 +11401,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "314)If the seventh day of a month is three days earlier than Friday, What day will it be on the nineteenth day of the month?",
-    "closed": false,
+    "closed": true,
     "total_voters": 38,
     "answers": [
      {
       "text": "Sunday",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      },
      {
       "text": "Tuesday",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Wednesday",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "Monday",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -11471,27 +11471,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "316)If the first day of the year(other than the leap) was Friday, then which was the last of that year?",
-    "closed": false,
+    "closed": true,
     "total_voters": 42,
     "answers": [
      {
       "text": "Wednesday",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "Thursday",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "Friday",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Sunday",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -11541,27 +11541,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "318)If 1st Octomber is Sunday, then 1st November will be",
-    "closed": false,
+    "closed": true,
     "total_voters": 52,
     "answers": [
      {
       "text": "Wednesday",
-      "voters": 0,
+      "voters": 18,
       "chosen": false
      },
      {
       "text": "Friday",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "Sunday",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Monday",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -11611,7 +11611,7 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "320)What is the number of odd days in a leap year?",
-    "closed": false,
+    "closed": true,
     "total_voters": 67,
     "answers": [
      {
@@ -14419,27 +14419,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "395)Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
-    "closed": false,
+    "closed": true,
     "total_voters": 47,
     "answers": [
      {
       "text": "South-East",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "South",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "North",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "West",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
@@ -14489,27 +14489,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "397)Starting from the point X, Jayant walked 15 m towards west. He turned left and walked 20 m. He then turned left and walked 15 m. After this he turned to his right and walked 12 m. How far and in which directions is now Jayant from X?",
-    "closed": false,
+    "closed": true,
     "total_voters": 51,
     "answers": [
      {
       "text": "32 m, South",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "47 m, East",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "42 m, North",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "27 m, South",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -17534,7 +17534,7 @@
    "poll": {
     "question": "471)Look at this series: 12, 11, 13, 12, 14, 13, … What number should come next?",
     "closed": false,
-    "total_voters": 25,
+    "total_voters": 26,
     "answers": [
      {
       "text": "10",
@@ -17569,7 +17569,7 @@
    "poll": {
     "question": "472)Look at this series: 7, 10, 8, 11, 9, 12, … What number should come next?",
     "closed": false,
-    "total_voters": 24,
+    "total_voters": 25,
     "answers": [
      {
       "text": "7",
@@ -17604,7 +17604,7 @@
    "poll": {
     "question": "473)Look at this series: 36, 34, 30, 28, 24, … What number should come next?",
     "closed": false,
-    "total_voters": 24,
+    "total_voters": 25,
     "answers": [
      {
       "text": "22",
@@ -17639,7 +17639,7 @@
    "poll": {
     "question": "474)Look at this series: 2, 1, (1/2), (1/4), … What number should come next?",
     "closed": false,
-    "total_voters": 21,
+    "total_voters": 22,
     "answers": [
      {
       "text": "(1/3)",
@@ -17674,7 +17674,7 @@
    "poll": {
     "question": "475)Look at this series: 80, 10, 70, 15, 60, … What number should come next?",
     "closed": false,
-    "total_voters": 28,
+    "total_voters": 29,
     "answers": [
      {
       "text": "20",
@@ -17709,7 +17709,7 @@
    "poll": {
     "question": "476)Which word does NOT belong with the others?",
     "closed": false,
-    "total_voters": 33,
+    "total_voters": 34,
     "answers": [
      {
       "text": "index",
@@ -17744,7 +17744,7 @@
    "poll": {
     "question": "477)Which word is the odd man out?",
     "closed": false,
-    "total_voters": 30,
+    "total_voters": 31,
     "answers": [
      {
       "text": "trivial",
@@ -17779,7 +17779,7 @@
    "poll": {
     "question": "478)Which word does NOT belong with the others?",
     "closed": false,
-    "total_voters": 30,
+    "total_voters": 31,
     "answers": [
      {
       "text": "wing",
@@ -17814,7 +17814,7 @@
    "poll": {
     "question": "479)Which word is the odd man out?",
     "closed": false,
-    "total_voters": 31,
+    "total_voters": 32,
     "answers": [
      {
       "text": "hate",
@@ -17849,7 +17849,7 @@
    "poll": {
     "question": "480)Pick the odd man out?",
     "closed": false,
-    "total_voters": 34,
+    "total_voters": 35,
     "answers": [
      {
       "text": "just",
