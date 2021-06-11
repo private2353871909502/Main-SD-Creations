@@ -13929,7 +13929,7 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "381)Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-    "closed": false,
+    "closed": true,
     "total_voters": 82,
     "answers": [
      {
@@ -13964,27 +13964,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "382)Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-    "closed": false,
+    "closed": true,
     "total_voters": 71,
     "answers": [
      {
       "text": "Niece",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "Daughter",
-      "voters": 0,
+      "voters": 22,
       "chosen": false
      },
      {
       "text": "Sister",
-      "voters": 0,
+      "voters": 34,
       "chosen": false
      },
      {
       "text": "Cannot be determined",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -13999,27 +13999,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "383)A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-    "closed": false,
+    "closed": true,
     "total_voters": 59,
     "answers": [
      {
       "text": "Sister",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "Daughter's-in-law",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      },
      {
       "text": "Sister-in-law",
-      "voters": 0,
+      "voters": 27,
       "chosen": false
      },
      {
       "text": "Cousin",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      }
     ]
@@ -14034,27 +14034,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "384)Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-    "closed": false,
+    "closed": true,
     "total_voters": 55,
     "answers": [
      {
       "text": "Maternal aunt",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "Grandmother",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "Sister of father-in-law",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      }
     ]
@@ -14069,27 +14069,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "385)If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-    "closed": false,
+    "closed": true,
     "total_voters": 42,
     "answers": [
      {
       "text": "Daughter-in-law",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "Sister-in-law",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "Aunt",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -14104,27 +14104,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "386)If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
-    "closed": false,
+    "closed": true,
     "total_voters": 42,
     "answers": [
      {
       "text": "K + Y + Z - I",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      },
      {
       "text": "K + Y x I - Z",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "Z - I x Y + K",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "K x Y + I - Z",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -14139,27 +14139,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "387)Pointing towards a girl, Abhisek says, \"This girl is the daughter of only a child of my father.\" What is the relation of Abhisek's wife to that girl?",
-    "closed": false,
+    "closed": true,
     "total_voters": 54,
     "answers": [
      {
       "text": "Daughter",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "Mother",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "Aunt",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "Sister",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      }
     ]
@@ -14174,27 +14174,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "388)If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A @ B means B is the husband of A, which of the following indicates that N is the grandmother of P?",
-    "closed": false,
+    "closed": true,
     "total_voters": 47,
     "answers": [
      {
       "text": "P * Q # M $ N",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      },
      {
       "text": "P @ Q $ M # N",
-      "voters": 0,
+      "voters": 20,
       "chosen": false
      },
      {
       "text": "P # Q $ N * M",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      }
     ]
@@ -14209,27 +14209,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "389)Anupam said to a lady sitting in a car, \"The only daughter of the brother of my wife is the sister-in-law of the brother of your sister.\" How the husband of the lady is related to Anupam?",
-    "closed": false,
+    "closed": true,
     "total_voters": 54,
     "answers": [
      {
       "text": "Maternal uncle",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Uncle",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "Father",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      },
      {
       "text": "Son-in-law",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      }
     ]
@@ -14244,27 +14244,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "390)Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-    "closed": false,
+    "closed": true,
     "total_voters": 81,
     "answers": [
      {
       "text": "Brother",
-      "voters": 0,
+      "voters": 29,
       "chosen": false
      },
      {
       "text": "Nephew",
-      "voters": 0,
+      "voters": 37,
       "chosen": false
      },
      {
       "text": "Uncle",
-      "voters": 0,
+      "voters": 9,
       "chosen": false
      },
      {
       "text": "Son-in-law",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      }
     ]
@@ -14279,27 +14279,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "391)One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
-    "closed": false,
+    "closed": true,
     "total_voters": 45,
     "answers": [
      {
       "text": "East",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      },
      {
       "text": "West",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "North",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "South",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      }
     ]
@@ -14314,27 +14314,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "392)Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
-    "closed": false,
+    "closed": true,
     "total_voters": 45,
     "answers": [
      {
       "text": "North",
-      "voters": 0,
+      "voters": 3,
       "chosen": false
      },
      {
       "text": "South",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "South-East",
-      "voters": 0,
+      "voters": 23,
       "chosen": false
      },
      {
       "text": "None of these",
-      "voters": 0,
+      "voters": 5,
       "chosen": false
      }
     ]
@@ -14349,27 +14349,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "393)If South-East becomes North, North-East becomes West and so on. What will West become?",
-    "closed": false,
+    "closed": true,
     "total_voters": 47,
     "answers": [
      {
       "text": "North-East",
-      "voters": 0,
+      "voters": 13,
       "chosen": false
      },
      {
       "text": "North-West",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "South-East",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "South-West",
-      "voters": 0,
+      "voters": 4,
       "chosen": false
      }
     ]
@@ -14384,27 +14384,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "394)A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
-    "closed": false,
+    "closed": true,
     "total_voters": 51,
     "answers": [
      {
       "text": "West",
-      "voters": 0,
+      "voters": 6,
       "chosen": false
      },
      {
       "text": "South",
-      "voters": 0,
+      "voters": 19,
       "chosen": false
      },
      {
       "text": "North-East",
-      "voters": 0,
+      "voters": 14,
       "chosen": false
      },
      {
       "text": "South-West",
-      "voters": 0,
+      "voters": 12,
       "chosen": false
      }
     ]
@@ -14454,27 +14454,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "396)Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?",
-    "closed": false,
+    "closed": true,
     "total_voters": 45,
     "answers": [
      {
       "text": "15 m West",
-      "voters": 0,
+      "voters": 15,
       "chosen": false
      },
      {
       "text": "30 m East",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "30 m West",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "45 m East",
-      "voters": 0,
+      "voters": 8,
       "chosen": false
      }
     ]
@@ -14524,27 +14524,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "398)One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
-    "closed": false,
+    "closed": true,
     "total_voters": 59,
     "answers": [
      {
       "text": "North",
-      "voters": 0,
+      "voters": 17,
       "chosen": false
      },
      {
       "text": "South",
-      "voters": 0,
+      "voters": 24,
       "chosen": false
      },
      {
       "text": "East",
-      "voters": 0,
+      "voters": 11,
       "chosen": false
      },
      {
       "text": "Data is inadequate",
-      "voters": 0,
+      "voters": 7,
       "chosen": false
      }
     ]
@@ -14594,27 +14594,27 @@
    "from_id": "channel1284696642",
    "poll": {
     "question": "400)Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?",
-    "closed": false,
+    "closed": true,
     "total_voters": 61,
     "answers": [
      {
       "text": "20 km.",
-      "voters": 0,
+      "voters": 25,
       "chosen": false
      },
      {
       "text": "30 km.",
-      "voters": 0,
+      "voters": 16,
       "chosen": false
      },
      {
       "text": "50 km.",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      },
      {
       "text": "60 km.",
-      "voters": 0,
+      "voters": 10,
       "chosen": false
      }
     ]
